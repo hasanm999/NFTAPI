@@ -25,11 +25,11 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 0.5rem;
+  gap: 0.2rem;
   list-style: none;
   padding: 0;
   margin: 0 auto;
-  max-width: 900px; /* کنترل عرض کلی منو */
+  max-width: 750px; /* کنترل عرض کلی منو */
 }
 
 /* هر آیتم حدوداً یک‌چهارم عرض بگیره */
