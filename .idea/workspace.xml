@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a0c00c-de46-4cd6-aa03-1d68f29a37c5" name="Changes" comment="" />
+    <list default="true" id="60a0c00c-de46-4cd6-aa03-1d68f29a37c5" name="Changes" comment="modified:&#10;-project settings&#10;-project urls&#10;-requirements.txt added">
+      <change beforePath="$PROJECT_DIR$/.idea/NFTAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NFTAPI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hasanm999"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hasanm999/NFTAPI.git",
+    "accountId": "d13e37f9-9dcd-4372-91d1-76c61cb89378"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="33jHQpcxgfEogkE0U9CjiLboJT7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,6 +40,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "develop",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,9 +64,39 @@
       <updated>1759823547903</updated>
       <workItem from="1759823548951" duration="1000" />
     </task>
+    <task id="LOCAL-00001" summary="modified:&#10;-project settings&#10;-project urls&#10;-requirements.txt added">
+      <option name="closed" value="true" />
+      <created>1759826454432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759826454432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ece3c9c7-f97d-4120-9654-184764fbb47f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="ece3c9c7-f97d-4120-9654-184764fbb47f">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="django basement added" />
+    <MESSAGE value="modified:&#10;-project settings&#10;-project urls&#10;-requirements.txt added" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified:&#10;-project settings&#10;-project urls&#10;-requirements.txt added" />
   </component>
 </project>
